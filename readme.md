@@ -10,3 +10,8 @@ require("present").start_presentation {}
 
 Use `n`, and `p` to navigate markdown slides and `q` to close
 
+# Credits
+
+original: `teej_dv`
+
+
